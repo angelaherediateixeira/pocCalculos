@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocParalell", "PocParalell\PocParalell.csproj", "{E0B66E0B-5376-4BAB-A2ED-EDB6236F07F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B66E0B-5376-4BAB-A2ED-EDB6236F07F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B66E0B-5376-4BAB-A2ED-EDB6236F07F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B66E0B-5376-4BAB-A2ED-EDB6236F07F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B66E0B-5376-4BAB-A2ED-EDB6236F07F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A97FCA5-1A90-4B0C-B6F5-3FEE63BC89E6}
+	EndGlobalSection
+EndGlobal
